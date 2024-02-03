@@ -1,4 +1,4 @@
-# 👋 Hello! I'm David     (ᵒ̤̑ ₀̑ ᵒ̤̑)wow!*✰
+# 👋 Hello! I'm David
 
 🏫 I'm currently a Grade 12 Student aspiring to study computer science in the future :><br>💻 Familiar with Java and LaTeX, learning C#, and rusty Python user<br>👾 In the process of coding a game... hopefully will finish it by the end of the year<br>☄️ Currently the Marketing lead at Astral Hacks<br>✨ Always eager and willing to learn :D
 
@@ -13,8 +13,8 @@
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=DregoonXD&theme=radical&hide_border=false)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DregoonXD&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DregoonXD&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<!-- ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=DregoonXD&limit=5&theme=radical&combine_all_yearly_contributions=true) -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DregoonXD&icon=0&color=6)](https://visitcount.itsvg.in)
