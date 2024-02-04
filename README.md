@@ -16,10 +16,9 @@
 <!-- ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DregoonXD&limit=5&theme=radical&combine_all_yearly_contributions=true) -->
 
-<!-- ### 🐍 Snake
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DregoonXD/DregoonXD/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DregoonXD/DregoonXD/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DregoonXD/DregoonXD/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DregoonXD/DregoonXD/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DregoonXD/DregoonXD/output/github-contribution-grid-snake.svg">
 </picture>
 
