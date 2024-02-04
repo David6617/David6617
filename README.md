@@ -1,6 +1,11 @@
 # 👋 Hello! I'm David
 
-🏫 I'm currently a Grade 12 Student aspiring to study computer science in the future :><br>💻 Familiar with Java and LaTeX, learning C#, and rusty Python user<br>👾 In the process of coding a game... hopefully will finish it by the end of the year<br>☄️ Currently the Marketing lead at Astral Hacks<br>✨ Always eager and willing to learn :D
+🏫 I'm currently a Grade 12 Student aspiring to study computer science in the future :><be>
+💻 Familiar with Java and LaTeX, learning C#, and rusty Python user<be>
+🎨 Apart from coding I also do 3D modeling with Blender and some digital art with Krita!
+👾 In the process of coding a game... hopefully will finish it by the end of the year<be>
+☄️ Currently the Marketing lead at Astral Hacks<be>
+✨ Always eager and willing to learn :D
 
 
 ## 🌐 Socials:
