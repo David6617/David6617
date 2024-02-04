@@ -1,6 +1,6 @@
 # 👋 Hello! I'm David
 
-🏫 I'm currently a Grade 12 Student aspiring to study computer science in the future :></br>
+🏫 I'm currently a Grade 12 Student who loves to code :></br>
 💻 Familiar with Java and LaTeX, learning C#, and rusty Python user</br>
 🎨 Apart from coding I also do 3D modeling with Blender and some digital art with Krita! </br>
 👾 In the process of coding a game... hopefully will finish it by the end of the year</br>
