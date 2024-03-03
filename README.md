@@ -20,8 +20,11 @@
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=DregoonXD&theme=radical&hide_border=false)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=David6617&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DregoonXD&limit=5&theme=radical&combine_all_yearly_contributions=true) -->
+# 🔝 Youtube Videos!
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Explaining Quantum Encryption in Minecraft](https://ytcards.demolab.com/?id=oWvdeALuaSI&t=16s&title=Explaining+Quantum+Encryption+in+Minecraft&)](https://www.youtube.com/watch?v=oWvdeALuaSI&t=16s)
+<!-- END YOUTUBE-CARDS -->
+
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/David6617/David6617/output/github-contribution-grid-snake-dark.svg">
