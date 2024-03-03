@@ -22,7 +22,7 @@
 
 # 🔝 Youtube Videos!
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Explaining Quantum Encryption in Minecraft](https://ytcards.demolab.com/?id=oWvdeALuaSI&t=16s&title=Explaining+Quantum+Encryption+in+Minecraft&)](https://www.youtube.com/watch?v=oWvdeALuaSI&t=16s)
+[![Explaining Quantum Encryption in Minecraft](https://ytcards.demolab.com/?id=oWvdeALuaSI&t=16s&title=Explaining+Quantum+Encryption+in+Minecraft&timestamp=1709436755&duration=427&)](https://www.youtube.com/watch?v=oWvdeALuaSI&t=16s)
 <!-- END YOUTUBE-CARDS -->
 
 
