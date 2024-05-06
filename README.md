@@ -4,7 +4,7 @@
 💻 Familiar with Java and LaTeX, learning C#, and rusty Python user</br>
 🎨 Apart from coding I also do 3D modeling with Blender and some digital art with Krita! </br>
 👾 In the process of coding a game... hopefully will finish it by the end of the year</br>
-☄️ Currently the Marketing lead and fronend Developer at Astral Hacks! </br>
+☄️ Currently the Marketing lead and frontend developer at Astral Hacks! </br>
 ✨ Always eager and willing to learn :D </br>
 📧 Feel free to email me at hangdavi0805@gmail.com
 
