@@ -10,7 +10,7 @@
 # 🔝 Youtube Videos!
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Explaining Quantum Encryption in Minecraft](https://ytcards.demolab.com/?id=oWvdeALuaSI&t=16s&title=Explaining+Quantum+Encryption+in+Minecraft&timestamp=1709436755&duration=427&)](https://www.youtube.com/watch?v=oWvdeALuaSI&)
-[![Political Extremism but in Minecraft](https://ytcards.demolab.com/?id=oWvdeALuaSI&t=16s&title=Explaining+Quantum+Encryption+in+Minecraft&timestamp=1709436755&duration=427&)](https://www.youtube.com/watch?v=Ffgu3XqSuCg)
+[![Political Extremism but in Minecraft](https://ytcards.demolab.com/?id=Ffgu3XqSuCg&title=political+extremism+but+in+minecraft&timestamp=1709436755&duration=330&)](https://www.youtube.com/watch?v=Ffgu3XqSuCg)
 <!-- END YOUTUBE-CARDS -->
 
 
