@@ -3,6 +3,7 @@
 🏫 I'm currently a math student at the University of Waterloo who loves to code :></br>
 💻 Aspiring software engineer who loves to tinker around with new and quirky tech :)</br>
 🎨 Apart from coding, I also do art! Whether it be 3d illustrations in Blender or digital art, I've tried it all :D</br>
+📼 I also make youtube videos here and there, I've linked them below!! Go check them out!!!
 📧 Feel free to email me at hangdavi0805@gmail.com
 
 
