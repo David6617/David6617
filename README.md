@@ -1,9 +1,8 @@
 # 👋 Hello! I'm David
 
 🏫 I'm currently a math student at the University of Waterloo who loves to code :></br>
-💻 Familiar with Java and LaTeX, learning C#, and rusty Python user</br>
-🎨 Apart from coding I also do 3D modeling with Blender and some digital art with Krita! </br>
-✨ Always eager and willing to learn :D </br>
+💻 Aspiring software engineer who loves to tinker around with new and quirky tech :)</br>
+🎨 Apart from coding, I also do art! Whether it be 3d illustrations in Blender or digital art, I've tried it all :D</br>
 📧 Feel free to email me at hangdavi0805@gmail.com
 
 
